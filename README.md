@@ -64,11 +64,11 @@
 			<h2 class="section-title">경력사항</h2>
 			<div class="row">
 				<div class="col col-3">
-					<p>2021년 1월 - 현재</p>
+					<p>2023년 3월 10일 - 현재</p>
 				</div>
 				<div class="col col-9">
-					<h3>○○ 회사</h3>
-					<p>○○ 담당</p>
+					<h3>차오름 국어 학원</h3>
+					<p>사무직 디자인 담당</p>
 				</div>
 			</div>
 			<div class="row">
@@ -76,4 +76,4 @@
 					<p>2019년 3월 - 2020년 12월</p>
 				</div>
 				<div class="col col-9">
-					<h3>△△ 회
+					<h3>국어 과외
