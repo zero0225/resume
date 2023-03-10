@@ -64,7 +64,7 @@
 			<h2 class="section-title">경력사항</h2>
 			<div class="row">
 				<div class="col col-3">
-					<p>2023년 3월 10일 ~ ing </p>
+					<p>2023년 3월 10일 현재 </p>
 				</div>
 				<div class="col col-9">
 					<h3>1. 차오름 국어 학원</h3>
