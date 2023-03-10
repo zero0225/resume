@@ -77,4 +77,10 @@
 				</div>
 				<div class="col col-9">
 					<h3>2. 충현고등학교 재학생 국어 과외
+				</div>
+			</div>
+			<div class="row">
+				<div class="col col-3">
 					<p>2023년 3월 4일 ~ ing </p>
+				</div>
+				<div class="col col-9">
