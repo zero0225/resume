@@ -58,7 +58,7 @@
 		<h1>이력서</h1>
 		<div class="section">
 			<h2 class="section-title">자기소개서</h2>
-			<p>안녕하세요. 저는 이화여자대학교를 재학중인 최윤영입니다. 목표는 전통복식분야를 연구하는 것입니다.</p>
+			<p>안녕하세요. 저는 이화여자대학교 의류산업학과에 재학중인 최윤영입니다. 목표는 전통복식분야를 연구하는 것입니다.</p>
 		</div>
 		<div class="section">
 			<h2 class="section-title">경력사항</h2>
